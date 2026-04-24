@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "hop_count": 1,
+    "question": "What is the job of Hauwa Dawit Sithole?",
+    "answer": "chef",
+    "target": "Hauwa Dawit Sithole",
+    "relation_chain": [],
+    "attribute": "job"
+  },
+  {
+    "id": 2,
+    "hop_count": 1,
+    "question": "Where does Elizabeth Ramaphosa work?",
+    "answer": "Havenwood Elementary",
+    "target": "Elizabeth Ramaphosa",
+    "relation_chain": [],
+    "attribute": "employer"
+  },
+  {
+    "id": 3,
+    "hop_count": 1,
+    "question": "What is the job of Rong Sung Zhao?",
+    "answer": "professor",
+    "target": "Rong Sung Zhao",
+    "relation_chain": [],
+    "attribute": "job"
+  },
+  {
+    "id": 4,
+    "hop_count": 1,
+    "question": "Where does Kwaku Ade Tesfaye work?",
+    "answer": "The Greystone Kitchen",
+    "target": "Kwaku Ade Tesfaye",
+    "relation_chain": [],
+    "attribute": "employer"
+  },
+  {
+    "id": 5,
+    "hop_count": 1,
+    "question": "What is the birthday of Rositsa Stoyanov?",
+    "answer": "2025-09-20",
+    "target": "Rositsa Stoyanov",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 6,
+    "hop_count": 2,
+    "question": "What is the birthday of Rositsa Stoyanov's mother?",
+    "answer": "2000-12-06",
+    "target": "Rositsa Stoyanov",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 7,
+    "hop_count": 2,
+    "question": "What is the full name of Hauwa Dawit Sithole's father?",
+    "answer": "Takumi Ali Al-Qahtani",
+    "target": "Hauwa Dawit Sithole",
+    "relation_chain": [
+      "father"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 8,
+    "hop_count": 2,
+    "question": "What is the full name of Haruto Rattanakorn's eldest sibling?",
+    "answer": "Kenji Chowdhury",
+    "target": "Haruto Rattanakorn",
+    "relation_chain": [
+      "eldest sibling"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 9,
+    "hop_count": 2,
+    "question": "What is the birthday of Ifunanya Kofi Molefe's oldest colleague?",
+    "answer": "1989-11-04",
+    "target": "Ifunanya Kofi Molefe",
+    "relation_chain": [
+      "oldest colleague"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 10,
+    "hop_count": 2,
+    "question": "What is the full name of Rong Sung Zhao's oldest colleague?",
+    "answer": "Selam Lee Chatterjee",
+    "target": "Rong Sung Zhao",
+    "relation_chain": [
+      "oldest colleague"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 11,
+    "hop_count": 3,
+    "question": "What is the job of Zanele Gurung's mother's spouse?",
+    "answer": "chef",
+    "target": "Zanele Gurung",
+    "relation_chain": [
+      "mother",
+      "spouse"
+    ],
+    "attribute": "job"
+  },
+  {
+    "id": 12,
+    "hop_count": 3,
+    "question": "What is the birthday of Zanele Gurung's father's mother?",
+    "answer": "1965-11-30",
+    "target": "Zanele Gurung",
+    "relation_chain": [
+      "father",
+      "mother"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 13,
+    "hop_count": 3,
+    "question": "What is the birthday of Kenji Chowdhury's eldest sibling's father?",
+    "answer": "1959-12-18",
+    "target": "Kenji Chowdhury",
+    "relation_chain": [
+      "eldest sibling",
+      "father"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 14,
+    "hop_count": 3,
+    "question": "What is the full name of Francoise Taylor's oldest colleague's oldest colleague?",
+    "answer": "Francoise Taylor",
+    "target": "Francoise Taylor",
+    "relation_chain": [
+      "oldest colleague",
+      "oldest colleague"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 15,
+    "hop_count": 3,
+    "question": "What is the job of Hauwa Dawit Sithole's eldest child's mother?",
+    "answer": "waiter",
+    "target": "Hauwa Dawit Sithole",
+    "relation_chain": [
+      "eldest child",
+      "mother"
+    ],
+    "attribute": "job"
+  },
+  {
+    "id": 16,
+    "hop_count": 4,
+    "question": "What is the birthday of Francoise Taylor's oldest colleague's father's eldest child?",
+    "answer": "1990-06-20",
+    "target": "Francoise Taylor",
+    "relation_chain": [
+      "oldest colleague",
+      "father",
+      "eldest child"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 17,
+    "hop_count": 4,
+    "question": "What is the full name of Chidi Haile Zuma's mother's eldest child's eldest child?",
+    "answer": "Arnel Mitchell",
+    "target": "Chidi Haile Zuma",
+    "relation_chain": [
+      "mother",
+      "eldest child",
+      "eldest child"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 18,
+    "hop_count": 4,
+    "question": "What is the job of Hauwa Dawit Sithole's mother's eldest child's oldest colleague?",
+    "answer": "electrician",
+    "target": "Hauwa Dawit Sithole",
+    "relation_chain": [
+      "mother",
+      "eldest child",
+      "oldest colleague"
+    ],
+    "attribute": "job"
+  },
+  {
+    "id": 19,
+    "hop_count": 4,
+    "question": "What is the birthday of Lukas Kowalczyk's father's oldest colleague's oldest colleague?",
+    "answer": "1995-04-01",
+    "target": "Lukas Kowalczyk",
+    "relation_chain": [
+      "father",
+      "oldest colleague",
+      "oldest colleague"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 20,
+    "hop_count": 4,
+    "question": "Where does Dineo Afolabi's eldest sibling's father's eldest child work?",
+    "answer": "Ironhammer Construction",
+    "target": "Dineo Afolabi",
+    "relation_chain": [
+      "eldest sibling",
+      "father",
+      "eldest child"
+    ],
+    "attribute": "employer"
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "id": 1,
+    "hop_count": 1,
+    "question": "What is the birthday of Nisha Luo?",
+    "answer": "2005-08-19",
+    "target": "Nisha Luo",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 2,
+    "hop_count": 1,
+    "question": "What is the birthday of Solomon Dawit Nkrumah?",
+    "answer": "2025-12-29",
+    "target": "Solomon Dawit Nkrumah",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 3,
+    "hop_count": 1,
+    "question": "What is the job of James Wayne Simmons?",
+    "answer": "auditor",
+    "target": "James Wayne Simmons",
+    "relation_chain": [],
+    "attribute": "job"
+  },
+  {
+    "id": 4,
+    "hop_count": 1,
+    "question": "What is the birthday of Bassam Andersen?",
+    "answer": "1964-01-02",
+    "target": "Bassam Andersen",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 5,
+    "hop_count": 1,
+    "question": "Where does Tamer Mohammed Samaha work?",
+    "answer": "Sterling Market",
+    "target": "Tamer Mohammed Samaha",
+    "relation_chain": [],
+    "attribute": "employer"
+  },
+  {
+    "id": 6,
+    "hop_count": 1,
+    "question": "What is the birthday of Timothy Neil Braun?",
+    "answer": "2003-11-30",
+    "target": "Timothy Neil Braun",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 7,
+    "hop_count": 1,
+    "question": "What is the birthday of Xiao Mehta?",
+    "answer": "1997-01-27",
+    "target": "Xiao Mehta",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 8,
+    "hop_count": 1,
+    "question": "What is the birthday of Hauwa Joy Peterson?",
+    "answer": "1950-04-26",
+    "target": "Hauwa Joy Peterson",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 9,
+    "hop_count": 1,
+    "question": "What is the birthday of Giuseppe Pedersen?",
+    "answer": "1997-03-23",
+    "target": "Giuseppe Pedersen",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 10,
+    "hop_count": 1,
+    "question": "What is the birthday of Asha Nia Nkosi?",
+    "answer": "1991-06-18",
+    "target": "Asha Nia Nkosi",
+    "relation_chain": [],
+    "attribute": "birthday"
+  },
+  {
+    "id": 11,
+    "hop_count": 2,
+    "question": "What is the full name of Ziad Nkosi's eldest child?",
+    "answer": "Nana Adebayo",
+    "target": "Ziad Nkosi",
+    "relation_chain": [
+      "eldest child"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 12,
+    "hop_count": 2,
+    "question": "What is the birthday of Nicole John Diaz's eldest child?",
+    "answer": "1996-06-08",
+    "target": "Nicole John Diaz",
+    "relation_chain": [
+      "eldest child"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 13,
+    "hop_count": 2,
+    "question": "What is the full name of Isabelle Bailey's mother?",
+    "answer": "Ikenna Kwame Adeyemi",
+    "target": "Isabelle Bailey",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 14,
+    "hop_count": 2,
+    "question": "What is the full name of Yuri Pavlovna Novotny's mother?",
+    "answer": "Sipho Kamau",
+    "target": "Yuri Pavlovna Novotny",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 15,
+    "hop_count": 2,
+    "question": "Where does Oluwaseun Nia Tadesse's mother work?",
+    "answer": "Zenith Motors",
+    "target": "Oluwaseun Nia Tadesse",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "employer"
+  },
+  {
+    "id": 16,
+    "hop_count": 2,
+    "question": "What is the birthday of Milica George Crawford's mother?",
+    "answer": "1996-01-04",
+    "target": "Milica George Crawford",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 17,
+    "hop_count": 2,
+    "question": "What is the full name of Swati Hakim's mother?",
+    "answer": "Amelia Neumann",
+    "target": "Swati Hakim",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 18,
+    "hop_count": 2,
+    "question": "What is the full name of Rin Issa's spouse?",
+    "answer": "Ishaan Ly",
+    "target": "Rin Issa",
+    "relation_chain": [
+      "spouse"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 19,
+    "hop_count": 2,
+    "question": "What is the birthday of Hala Adebayo's mother?",
+    "answer": "1995-06-05",
+    "target": "Hala Adebayo",
+    "relation_chain": [
+      "mother"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 20,
+    "hop_count": 2,
+    "question": "What is the job of Zhen Hwang's spouse?",
+    "answer": "baker",
+    "target": "Zhen Hwang",
+    "relation_chain": [
+      "spouse"
+    ],
+    "attribute": "job"
+  },
+  {
+    "id": 21,
+    "hop_count": 3,
+    "question": "What is the birthday of Maisha Mhlongo's oldest colleague's eldest child?",
+    "answer": "1992-01-15",
+    "target": "Maisha Mhlongo",
+    "relation_chain": [
+      "oldest colleague",
+      "eldest child"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 22,
+    "hop_count": 3,
+    "question": "What is the full name of Rafael Lim's spouse's eldest child?",
+    "answer": "Daria Piotr Koval",
+    "target": "Rafael Lim",
+    "relation_chain": [
+      "spouse",
+      "eldest child"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 23,
+    "hop_count": 3,
+    "question": "What is the full name of Noor Anders Opoku's mother's oldest colleague?",
+    "answer": "Themba Bola Demeke",
+    "target": "Noor Anders Opoku",
+    "relation_chain": [
+      "mother",
+      "oldest colleague"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 24,
+    "hop_count": 3,
+    "question": "Where does Bassam Andersen's eldest child's oldest colleague work?",
+    "answer": "The Greystone Kitchen",
+    "target": "Bassam Andersen",
+    "relation_chain": [
+      "eldest child",
+      "oldest colleague"
+    ],
+    "attribute": "employer"
+  },
+  {
+    "id": 25,
+    "hop_count": 3,
+    "question": "What is the birthday of Tien Feng's eldest child's father?",
+    "answer": "1998-10-12",
+    "target": "Tien Feng",
+    "relation_chain": [
+      "eldest child",
+      "father"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 26,
+    "hop_count": 3,
+    "question": "What is the full name of Mustafa Khalil Jaber's spouse's spouse?",
+    "answer": "Mustafa Khalil Jaber",
+    "target": "Mustafa Khalil Jaber",
+    "relation_chain": [
+      "spouse",
+      "spouse"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 27,
+    "hop_count": 3,
+    "question": "What is the job of Christopher Thabo Friedrich's father's spouse?",
+    "answer": "detective",
+    "target": "Christopher Thabo Friedrich",
+    "relation_chain": [
+      "father",
+      "spouse"
+    ],
+    "attribute": "job"
+  },
+  {
+    "id": 28,
+    "hop_count": 3,
+    "question": "What is the full name of Anouk Roberts's father's eldest child?",
+    "answer": "Anouk Roberts",
+    "target": "Anouk Roberts",
+    "relation_chain": [
+      "father",
+      "eldest child"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 29,
+    "hop_count": 3,
+    "question": "What is the full name of Ashok Jun Lin's eldest sibling's father?",
+    "answer": "Nikhil Lee Zaki",
+    "target": "Ashok Jun Lin",
+    "relation_chain": [
+      "eldest sibling",
+      "father"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 30,
+    "hop_count": 3,
+    "question": "What is the birthday of Karel Cerny's oldest colleague's spouse?",
+    "answer": "1987-06-08",
+    "target": "Karel Cerny",
+    "relation_chain": [
+      "oldest colleague",
+      "spouse"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 31,
+    "hop_count": 4,
+    "question": "What is the full name of Saar Otto Wilson's mother's eldest child's father?",
+    "answer": "Friedrich Hendriks",
+    "target": "Saar Otto Wilson",
+    "relation_chain": [
+      "mother",
+      "eldest child",
+      "father"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 32,
+    "hop_count": 4,
+    "question": "What is the birthday of Arthur May Nam's father's eldest child's mother?",
+    "answer": "1970-12-28",
+    "target": "Arthur May Nam",
+    "relation_chain": [
+      "father",
+      "eldest child",
+      "mother"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 33,
+    "hop_count": 4,
+    "question": "Where does Silvia Franz Reyes's eldest sibling's mother's eldest sibling work?",
+    "answer": "The Greystone Kitchen",
+    "target": "Silvia Franz Reyes",
+    "relation_chain": [
+      "eldest sibling",
+      "mother",
+      "eldest sibling"
+    ],
+    "attribute": "employer"
+  },
+  {
+    "id": 34,
+    "hop_count": 4,
+    "question": "What is the birthday of Jessica Pedersen's mother's eldest child's father?",
+    "answer": "1980-12-20",
+    "target": "Jessica Pedersen",
+    "relation_chain": [
+      "mother",
+      "eldest child",
+      "father"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 35,
+    "hop_count": 4,
+    "question": "Where does Salman Ngo's oldest colleague's eldest sibling's eldest sibling work?",
+    "answer": "Apex Bakery",
+    "target": "Salman Ngo",
+    "relation_chain": [
+      "oldest colleague",
+      "eldest sibling",
+      "eldest sibling"
+    ],
+    "attribute": "employer"
+  },
+  {
+    "id": 36,
+    "hop_count": 4,
+    "question": "What is the birthday of Karen Jean Taylor's father's eldest sibling's oldest colleague?",
+    "answer": "1980-04-12",
+    "target": "Karen Jean Taylor",
+    "relation_chain": [
+      "father",
+      "eldest sibling",
+      "oldest colleague"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 37,
+    "hop_count": 4,
+    "question": "What is the full name of Krasimir Zielinski's oldest colleague's spouse's oldest colleague?",
+    "answer": "Jing Sato",
+    "target": "Krasimir Zielinski",
+    "relation_chain": [
+      "oldest colleague",
+      "spouse",
+      "oldest colleague"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 38,
+    "hop_count": 4,
+    "question": "What is the full name of Hiwot Boateng's eldest child's eldest sibling's mother?",
+    "answer": "Hiwot Boateng",
+    "target": "Hiwot Boateng",
+    "relation_chain": [
+      "eldest child",
+      "eldest sibling",
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 39,
+    "hop_count": 4,
+    "question": "What is the birthday of Andres Meijer's spouse's father's spouse?",
+    "answer": "1966-09-04",
+    "target": "Andres Meijer",
+    "relation_chain": [
+      "spouse",
+      "father",
+      "spouse"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 40,
+    "hop_count": 4,
+    "question": "What is the full name of Wen Ndlovu's oldest colleague's eldest child's father?",
+    "answer": "Kenneth Werner",
+    "target": "Wen Ndlovu",
+    "relation_chain": [
+      "oldest colleague",
+      "eldest child",
+      "father"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 41,
+    "hop_count": 5,
+    "question": "What is the birthday of Krishna Uche's father's eldest child's eldest sibling's spouse?",
+    "answer": "1992-01-15",
+    "target": "Krishna Uche",
+    "relation_chain": [
+      "father",
+      "eldest child",
+      "eldest sibling",
+      "spouse"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 42,
+    "hop_count": 5,
+    "question": "What is the full name of Celine Thompson's eldest sibling's father's spouse's eldest sibling?",
+    "answer": "Imara Zulu",
+    "target": "Celine Thompson",
+    "relation_chain": [
+      "eldest sibling",
+      "father",
+      "spouse",
+      "eldest sibling"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 43,
+    "hop_count": 5,
+    "question": "What is the full name of Stepan Jarrah's eldest sibling's father's eldest child's eldest sibling?",
+    "answer": "Sebastian Arthur Hofmann",
+    "target": "Stepan Jarrah",
+    "relation_chain": [
+      "eldest sibling",
+      "father",
+      "eldest child",
+      "eldest sibling"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 44,
+    "hop_count": 5,
+    "question": "What is the full name of Iman Johnson's oldest colleague's father's eldest child's mother?",
+    "answer": "Vivek Halim",
+    "target": "Iman Johnson",
+    "relation_chain": [
+      "oldest colleague",
+      "father",
+      "eldest child",
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 45,
+    "hop_count": 5,
+    "question": "What is the birthday of Obinna Uche's eldest child's eldest sibling's eldest sibling's father?",
+    "answer": "1959-10-23",
+    "target": "Obinna Uche",
+    "relation_chain": [
+      "eldest child",
+      "eldest sibling",
+      "eldest sibling",
+      "father"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 46,
+    "hop_count": 5,
+    "question": "What is the birthday of Takeshi Santos's father's spouse's oldest colleague's spouse?",
+    "answer": "1973-02-04",
+    "target": "Takeshi Santos",
+    "relation_chain": [
+      "father",
+      "spouse",
+      "oldest colleague",
+      "spouse"
+    ],
+    "attribute": "birthday"
+  },
+  {
+    "id": 47,
+    "hop_count": 5,
+    "question": "What is the full name of Raj Gupta's eldest child's spouse's eldest sibling's mother?",
+    "answer": "Sipho Kamau",
+    "target": "Raj Gupta",
+    "relation_chain": [
+      "eldest child",
+      "spouse",
+      "eldest sibling",
+      "mother"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 48,
+    "hop_count": 5,
+    "question": "Where does Yong Chaudhary's father's eldest child's eldest sibling's oldest colleague work?",
+    "answer": "Phoenix Market",
+    "target": "Yong Chaudhary",
+    "relation_chain": [
+      "father",
+      "eldest child",
+      "eldest sibling",
+      "oldest colleague"
+    ],
+    "attribute": "employer"
+  },
+  {
+    "id": 49,
+    "hop_count": 5,
+    "question": "What is the full name of Amaka Ade Babangida's father's eldest child's mother's spouse?",
+    "answer": "Swati Ono",
+    "target": "Amaka Ade Babangida",
+    "relation_chain": [
+      "father",
+      "eldest child",
+      "mother",
+      "spouse"
+    ],
+    "attribute": "name"
+  },
+  {
+    "id": 50,
+    "hop_count": 5,
+    "question": "What is the job of Yuki Baek's father's mother's eldest child's spouse?",
+    "answer": "police officer",
+    "target": "Yuki Baek",
+    "relation_chain": [
+      "father",
+      "mother",
+      "eldest child",
+      "spouse"
+    ],
+    "attribute": "job"
+  }
+]

@@ -1,0 +1,462 @@
+{
+  "reference_date": "2026-04-24",
+  "people": [
+    {
+      "id": "p000001",
+      "name": "Riku Popov",
+      "gender": "m",
+      "birthday": "1951-03-02",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000002",
+      "name": "Kwaku Ade Tesfaye",
+      "gender": "f",
+      "birthday": "1965-11-30",
+      "job": "barista",
+      "employer_id": "c0001",
+      "spouse_id": "p000008",
+      "parent_ids": [],
+      "child_ids": [
+        "p000009",
+        "p000010",
+        "p000011",
+        "p000012"
+      ]
+    },
+    {
+      "id": "p000003",
+      "name": "Selam Lee Chatterjee",
+      "gender": "m",
+      "birthday": "1941-09-07",
+      "job": "principal",
+      "employer_id": "c0003",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000004",
+      "name": "Vivek Kai Cho",
+      "gender": "f",
+      "birthday": "1962-11-08",
+      "job": "school counselor",
+      "employer_id": "c0003",
+      "spouse_id": "p000006",
+      "parent_ids": [],
+      "child_ids": [
+        "p000013",
+        "p000014",
+        "p000015",
+        "p000016"
+      ]
+    },
+    {
+      "id": "p000005",
+      "name": "Segun Gebre",
+      "gender": "m",
+      "birthday": "1963-05-17",
+      "job": "teacher",
+      "employer_id": "c0003",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000006",
+      "name": "Elizabeth Ramaphosa",
+      "gender": "m",
+      "birthday": "1972-02-22",
+      "job": "librarian",
+      "employer_id": "c0003",
+      "spouse_id": "p000004",
+      "parent_ids": [],
+      "child_ids": [
+        "p000013",
+        "p000014",
+        "p000015",
+        "p000016"
+      ]
+    },
+    {
+      "id": "p000007",
+      "name": "Zainab Khoury",
+      "gender": "m",
+      "birthday": "1936-01-14",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000008",
+      "name": "Takumi Ali Al-Qahtani",
+      "gender": "m",
+      "birthday": "1959-12-18",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": "p000002",
+      "parent_ids": [],
+      "child_ids": [
+        "p000009",
+        "p000010",
+        "p000011",
+        "p000012"
+      ]
+    },
+    {
+      "id": "p000009",
+      "name": "Hauwa Dawit Sithole",
+      "gender": "m",
+      "birthday": "1996-01-12",
+      "job": "chef",
+      "employer_id": "c0001",
+      "spouse_id": "p000015",
+      "parent_ids": [
+        "p000002",
+        "p000008"
+      ],
+      "child_ids": [
+        "p000017",
+        "p000018",
+        "p000019",
+        "p000020",
+        "p000021"
+      ]
+    },
+    {
+      "id": "p000010",
+      "name": "Kenji Chowdhury",
+      "gender": "f",
+      "birthday": "1992-11-18",
+      "job": "carpenter",
+      "employer_id": "c0002",
+      "spouse_id": null,
+      "parent_ids": [
+        "p000002",
+        "p000008"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000011",
+      "name": "Haruto Rattanakorn",
+      "gender": "f",
+      "birthday": "1990-06-20",
+      "job": "plumber",
+      "employer_id": "c0002",
+      "spouse_id": null,
+      "parent_ids": [
+        "p000002",
+        "p000008"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000012",
+      "name": "Dineo Afolabi",
+      "gender": "f",
+      "birthday": "2003-12-10",
+      "job": "architect",
+      "employer_id": "c0002",
+      "spouse_id": null,
+      "parent_ids": [
+        "p000002",
+        "p000008"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000013",
+      "name": "Akosua Sipho Nkrumah",
+      "gender": "m",
+      "birthday": "2007-09-16",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000004",
+        "p000006"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000014",
+      "name": "Stoyan Wieczorek",
+      "gender": "f",
+      "birthday": "2001-05-05",
+      "job": "waiter",
+      "employer_id": "c0001",
+      "spouse_id": null,
+      "parent_ids": [
+        "p000004",
+        "p000006"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000015",
+      "name": "Chidi Haile Zuma",
+      "gender": "f",
+      "birthday": "2000-12-06",
+      "job": "waiter",
+      "employer_id": "c0001",
+      "spouse_id": "p000009",
+      "parent_ids": [
+        "p000004",
+        "p000006"
+      ],
+      "child_ids": [
+        "p000017",
+        "p000018",
+        "p000019",
+        "p000020",
+        "p000021"
+      ]
+    },
+    {
+      "id": "p000016",
+      "name": "Rong Sung Zhao",
+      "gender": "f",
+      "birthday": "2002-12-26",
+      "job": "professor",
+      "employer_id": "c0003",
+      "spouse_id": null,
+      "parent_ids": [
+        "p000004",
+        "p000006"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000017",
+      "name": "Arnel Mitchell",
+      "gender": "f",
+      "birthday": "2023-07-27",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000015",
+        "p000009"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000018",
+      "name": "Lukas Kowalczyk",
+      "gender": "m",
+      "birthday": "2024-08-23",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000015",
+        "p000009"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000019",
+      "name": "Rositsa Stoyanov",
+      "gender": "m",
+      "birthday": "2025-09-20",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000015",
+        "p000009"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000020",
+      "name": "Waqar Wayne Hong",
+      "gender": "f",
+      "birthday": "2025-01-29",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000015",
+        "p000009"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000021",
+      "name": "Zanele Gurung",
+      "gender": "f",
+      "birthday": "2023-09-16",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000015",
+        "p000009"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000022",
+      "name": "Chaiwat Lin",
+      "gender": "f",
+      "birthday": "1986-01-01",
+      "job": "school counselor",
+      "employer_id": "c0003",
+      "spouse_id": "p000023",
+      "parent_ids": [],
+      "child_ids": [
+        "p000026",
+        "p000027",
+        "p000028"
+      ]
+    },
+    {
+      "id": "p000023",
+      "name": "Francoise Taylor",
+      "gender": "f",
+      "birthday": "1989-11-04",
+      "job": "electrician",
+      "employer_id": "c0002",
+      "spouse_id": "p000022",
+      "parent_ids": [],
+      "child_ids": [
+        "p000026",
+        "p000027",
+        "p000028"
+      ]
+    },
+    {
+      "id": "p000024",
+      "name": "Linh Das Chatterjee",
+      "gender": "m",
+      "birthday": "1995-04-01",
+      "job": "waiter",
+      "employer_id": "c0001",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000025",
+      "name": "Aishwarya Okada",
+      "gender": "m",
+      "birthday": "2002-02-16",
+      "job": "architect",
+      "employer_id": "c0002",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000026",
+      "name": "Marija Sergeevna Kravchenko",
+      "gender": "m",
+      "birthday": "2015-02-05",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000023",
+        "p000022"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000027",
+      "name": "Gregory Lundgren",
+      "gender": "f",
+      "birthday": "2015-09-28",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000023",
+        "p000022"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000028",
+      "name": "Emiko Xiao",
+      "gender": "f",
+      "birthday": "2021-12-31",
+      "job": null,
+      "employer_id": null,
+      "spouse_id": null,
+      "parent_ids": [
+        "p000023",
+        "p000022"
+      ],
+      "child_ids": []
+    },
+    {
+      "id": "p000029",
+      "name": "Refiloe Molefe",
+      "gender": "f",
+      "birthday": "2000-08-30",
+      "job": "barista",
+      "employer_id": "c0001",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    },
+    {
+      "id": "p000030",
+      "name": "Ifunanya Kofi Molefe",
+      "gender": "m",
+      "birthday": "1997-07-17",
+      "job": "carpenter",
+      "employer_id": "c0002",
+      "spouse_id": null,
+      "parent_ids": [],
+      "child_ids": []
+    }
+  ],
+  "companies": [
+    {
+      "id": "c0001",
+      "name": "The Greystone Kitchen",
+      "industry": "food",
+      "jobs": [
+        "baker",
+        "chef",
+        "pastry chef",
+        "barista",
+        "waiter"
+      ]
+    },
+    {
+      "id": "c0002",
+      "name": "Ironhammer Construction",
+      "industry": "construction",
+      "jobs": [
+        "carpenter",
+        "electrician",
+        "plumber",
+        "welder",
+        "architect",
+        "roofer"
+      ]
+    },
+    {
+      "id": "c0003",
+      "name": "Havenwood Elementary",
+      "industry": "education",
+      "jobs": [
+        "teacher",
+        "principal",
+        "librarian",
+        "professor",
+        "school counselor"
+      ]
+    }
+  ]
+}

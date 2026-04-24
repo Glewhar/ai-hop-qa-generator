@@ -1,0 +1,20 @@
+A1: chef
+A2: Havenwood Elementary
+A3: professor
+A4: The Greystone Kitchen
+A5: 2025-09-20
+A6: 2000-12-06
+A7: Takumi Ali Al-Qahtani
+A8: Kenji Chowdhury
+A9: 1989-11-04
+A10: Selam Lee Chatterjee
+A11: chef
+A12: 1965-11-30
+A13: 1959-12-18
+A14: Francoise Taylor
+A15: waiter
+A16: 1990-06-20
+A17: Arnel Mitchell
+A18: electrician
+A19: 1995-04-01
+A20: Ironhammer Construction

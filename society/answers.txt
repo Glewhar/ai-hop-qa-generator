@@ -1,0 +1,50 @@
+A1: 2005-08-19
+A2: 2025-12-29
+A3: auditor
+A4: 1964-01-02
+A5: Sterling Market
+A6: 2003-11-30
+A7: 1997-01-27
+A8: 1950-04-26
+A9: 1997-03-23
+A10: 1991-06-18
+A11: Nana Adebayo
+A12: 1996-06-08
+A13: Ikenna Kwame Adeyemi
+A14: Sipho Kamau
+A15: Zenith Motors
+A16: 1996-01-04
+A17: Amelia Neumann
+A18: Ishaan Ly
+A19: 1995-06-05
+A20: baker
+A21: 1992-01-15
+A22: Daria Piotr Koval
+A23: Themba Bola Demeke
+A24: The Greystone Kitchen
+A25: 1998-10-12
+A26: Mustafa Khalil Jaber
+A27: detective
+A28: Anouk Roberts
+A29: Nikhil Lee Zaki
+A30: 1987-06-08
+A31: Friedrich Hendriks
+A32: 1970-12-28
+A33: The Greystone Kitchen
+A34: 1980-12-20
+A35: Apex Bakery
+A36: 1980-04-12
+A37: Jing Sato
+A38: Hiwot Boateng
+A39: 1966-09-04
+A40: Kenneth Werner
+A41: 1992-01-15
+A42: Imara Zulu
+A43: Sebastian Arthur Hofmann
+A44: Vivek Halim
+A45: 1959-10-23
+A46: 1973-02-04
+A47: Sipho Kamau
+A48: Phoenix Market
+A49: Swati Ono
+A50: police officer
